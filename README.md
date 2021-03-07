@@ -7,4 +7,4 @@ In addition, apart from the data analysis, a simple recommendation system is tes
 
 ## Code and report
 
-It is preferable to view the report in google colab [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AGiannoutsos/airbnb-data-analysis/blob/main/athens-airbnb-data-analysis.ipynb)
+It is preferable to view the report in google colab [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AGiannoutsos/airbnb-data-analysis/blob/main/athens_airbnb_data_analysis.ipynb)
